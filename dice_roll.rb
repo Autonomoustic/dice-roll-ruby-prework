@@ -7,4 +7,4 @@ def roll(array)
   shuffle.first
 end
 
-roll
+roll.random
